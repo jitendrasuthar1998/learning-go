@@ -1,0 +1,31 @@
+What is the Go, and what are the use case
+
+Data types - string, integers, booleans, array and slices, maps, Structs
+
+Variables and Constraints
+
+Formatted Output
+
+Getting and validating user input
+
+Pointers
+
+Variables scope
+
+Loops
+
+If else & switch
+
+Functions
+
+Organise code in go packages
+
+Goroutines to make our app faster
+
+Go programming language developed at Google in 2007.
+
+Open sourced in 2009.
+
+why another programming language?
+What is the purpose?
+how is it better or different?
