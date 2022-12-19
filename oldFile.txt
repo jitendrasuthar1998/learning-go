@@ -1,0 +1,31 @@
+package main
+
+import "fmt"
+
+func main() {
+	var conferenceName = "Go conference"
+	const conferenceTickets = 50
+	var remainingTickets = 50
+	fmt.Println("Welcome to", conferenceName, "booking application")
+	fmt.Println("We have total of ", conferenceTickets, "tickets and", remainingTickets, "are still available")
+	fmt.Println("Get your tickets here to attend")
+
+	var userName string
+	var userTickets int
+	// ask user for thier name
+
+	// fmt.Scan()
+
+	// userName = "Tom"
+	userTickets = 10
+
+	fmt.Println(remainingTickets)
+	// fmt.Println(&remainingTickets)
+	fmt.Println("Enter your first name")
+	fmt.Scan(&userName)
+	// fmt.Scan(&remainingTickets)
+	fmt.Printf("User %v booked %v tickets. \n", userName, userTickets)
+
+	// fmt.Printf("conferenceTickets is %T, remainingTickets is %T, conferenceName is %T \n", conferenceTickets, remainingTickets, conferenceName)
+	// fmt.Println(conferenceName)
+}

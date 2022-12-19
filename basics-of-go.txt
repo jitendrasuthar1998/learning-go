@@ -1,0 +1,5 @@
+What is Go?
+
+Go is a fast, statically typed, compiled language.
+
+compiled means go compiled down into machine level code that computers understand. so, it doesn't need to be intepreted at one line at one time.

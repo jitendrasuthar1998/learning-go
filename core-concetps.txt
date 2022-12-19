@@ -1,5 +1,7 @@
 What is the Go, and what are the use case
 
+what things i need to run go code?
+
 Data types - string, integers, booleans, array and slices, maps, Structs
 
 Variables and Constraints
@@ -29,3 +31,30 @@ Open sourced in 2009.
 why another programming language?
 What is the purpose?
 how is it better or different?
+
+All our code should belong to a package.
+
+where to start executing go application.
+so we have to give an entry point to start a go application.
+
+because when we run go application, we need main starting point for execution.
+where to start the program? where is the entrypoint?
+
+if we have multiple files in project, we need to give go compiler a starting point, the first line of code where the execution start.
+
+
+entrypoint is a main function, which go compiler will look whenever we execute our go application. 
+
+
+Each language use case can be different.
+
+But the basics remain same.
+
+Like data types
+declaring Variables
+Operators
+Looping
+Conditional Statement
+Comments
+Printing output
+Taking output from user
